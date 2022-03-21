@@ -1,4 +1,4 @@
-package com.mine
+package com.wisesdk
 
 import android.app.Application
 import android.util.Log

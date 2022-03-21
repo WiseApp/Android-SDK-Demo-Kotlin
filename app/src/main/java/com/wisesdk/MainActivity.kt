@@ -1,4 +1,4 @@
-package com.mine
+package com.wisesdk
 
 import android.os.Bundle
 import android.util.Log
@@ -11,6 +11,7 @@ import androidx.navigation.ui.setupActionBarWithNavController
 import android.view.Menu
 import android.view.MenuItem
 import android.widget.Button
+import com.mine.R
 import com.mine.databinding.ActivityMainBinding
 import com.wise.sdk.core.WiseSDK
 
