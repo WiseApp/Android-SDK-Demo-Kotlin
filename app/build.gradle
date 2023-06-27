@@ -43,7 +43,7 @@ dependencies {
     implementation 'androidx.navigation:navigation-ui-ktx:2.4.1'
 
     // wise sdk
-    implementation "com.wise.sdk:core:1.1.3"
+    implementation "com.wise.sdk:core:1.1.4"
 
     // zoom sdk
     implementation project(path: ':mobilertc')
